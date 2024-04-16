@@ -14,7 +14,7 @@ NIM : 12030122140279
 - Home
 ![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20LAMA.png)
 - Home
-![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20LAMA.png)
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20LAMA%202.png)
 - Create Post
 ![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/CREATE%20BLOG%20LAMA.png)
 
