@@ -10,12 +10,13 @@ NIM : 12030122140279
 
 ## Tampilan Sistem Lama
 - Dashboard
-
+[image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/DASHBOARD%20LAMA.png)
 - Home
-
+[image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20LAMA.png)
 - Home
-
+[image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20LAMA.png)
 - Create Post
+[image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/CREATE%20BLOG%20LAMA.png)
 
 ## Tampilan Sistem Baru
 - Dashboard
