@@ -1,3 +1,13 @@
+## PengkodeanDanPemrgogaman-Sistem-Informasi-Blog
+Source Code Aplikasi Pengiriman Blog sederhana berbasis Website dengan PHP & MYSQL
+
+## Tugas Pengkodean dan Pemrograman
+Nama : Nadiah Humairah Adani
+
+NIM : 12030122140279
+
+- Web Pos Sistem Informasi Blog dari (https://github.com/codewithdary/laravel-8-complete-blog)
+
 ## Laravel 8 Complete Blog
 
 This repository is linked to [this youtube video](https://www.youtube.com/watch?v=HKJDLXsTr8A&t=4710s) where I show you how to create a complete blog in Laravel 8 using best practices.
