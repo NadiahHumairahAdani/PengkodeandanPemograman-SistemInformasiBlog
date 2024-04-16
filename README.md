@@ -20,14 +20,18 @@ NIM : 12030122140279
 
 ## Tampilan Sistem Baru
 - Dashboard
-
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/DASHBOARD%20BARU.png)
 - Home
-
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20BARU.png)
 - Home
-
+![image]([https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20BARU%202.png)
 - Home
-
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/HOME%20BARU%203.png)
 - Create Post
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/CREATE%20BLOG%20BARU.png)
+
+## ERD
+![image](https://github.com/NadiahHumairahAdani/PengkodeandanPemograman-SistemInformasiBlog/blob/main/ERD%20PLUS.png)
 
 ## Laravel 8 Complete Blog
 
