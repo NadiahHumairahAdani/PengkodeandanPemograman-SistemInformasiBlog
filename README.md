@@ -8,6 +8,26 @@ NIM : 12030122140279
 
 - Web Pos Sistem Informasi Blog dari (https://github.com/codewithdary/laravel-8-complete-blog)
 
+## Tampilan Sistem Lama
+- Dashboard
+
+- Home
+
+- Home
+
+- Create Post
+
+## Tampilan Sistem Baru
+- Dashboard
+
+- Home
+
+- Home
+
+- Home
+
+- Create Post
+
 ## Laravel 8 Complete Blog
 
 This repository is linked to [this youtube video](https://www.youtube.com/watch?v=HKJDLXsTr8A&t=4710s) where I show you how to create a complete blog in Laravel 8 using best practices.
